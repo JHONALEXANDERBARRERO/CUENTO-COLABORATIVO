@@ -9,5 +9,9 @@ Su madre empacaba documentos importantes, como si el fuego pidiera papeles antes
 El niño miró su habitación. Sus trofeos, sus libros, su consola de videojuegos.
 “Supongo que esto no estaba en el manual de instrucciones”, murmuró.
 Nunca le habían enseñado qué hacer cuando el cielo decide caer.
+<<<<<<< HEAD
 
 aquí paso daniel 2
+=======
+*revisado por el instructor Yonatan*
+>>>>>>> fe0d433dc81d50f09d86a86ba721cbaf550525cb
